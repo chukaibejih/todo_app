@@ -1,6 +1,6 @@
 # MY TODO-S
 
-MY TODO-S is a static website that allows users to put down their task in a to-do format.
+MY TODO-S is a webapp that allows users to put down their task in a to-do format.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/29266211/194055214-d1148840-f7a7-48f3-9b95-aef367b72f76.png)
